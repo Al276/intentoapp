@@ -1,0 +1,19 @@
+{
+  "name": "intentoapp",
+  "version": "1.0.0",
+  "description": "tercer programaa, no soporto",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al276/intentoapp.git"
+  },
+  "author": "Al276",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al276/intentoapp/issues"
+  },
+  "homepage": "https://github.com/Al276/intentoapp#readme"
+}
