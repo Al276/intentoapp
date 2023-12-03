@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Al276/intentoapp/issues"
   },
-  "homepage": "https://github.com/Al276/intentoapp#readme"
+  "homepage": "https://github.com/Al276/intentoapp#readme",
+  "devDependencies": {
+    "electron": "^27.1.3"
+  }
 }
